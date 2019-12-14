@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task6T</string>
+    <string name="title_activity_maps">Weather</string>
+    <string name="delete_all">Delete all</string>
+    <string name="map">Weather</string>
+    <string name="history">History</string>
+    <string name="update">Update</string>
+    <string name="urlWeather"></string>
+    <string name="urlLocale">http://dataservice.accuweather.com/locations/v1/cities/geoposition/search</string>
+</resources>
